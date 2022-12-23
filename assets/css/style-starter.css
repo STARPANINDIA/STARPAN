@@ -9552,8 +9552,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 :root {
   --theme-color: #000;
-  --secondary-color: #FEBC35;
-  --opposite-color: #FEBC35;
+  --secondary-color: #FF7B15;
+  --opposite-color: #FF7B15;
   --text-color: #585858;
   --title-color: #1A1D2D;
   --white-color: #ffffff;
